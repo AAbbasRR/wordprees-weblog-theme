@@ -1,0 +1,453 @@
+/* ////////////////////////////////// */
+@media screen and (max-width: 1200px){
+    .archive_card .archive-card-content-box .limit-char {
+        -webkit-line-clamp: 3 !important;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .index_single_page_container {
+        max-width: 100% !important;
+    }
+
+    .related-posts {
+        margin: 3rem 0;
+    }
+
+    h4 {
+        padding: 0.5rem 0;
+        font-size: 1rem;
+        line-height: 1.8rem;
+    }
+
+    .image-index {
+        background-size: contain !important;
+        margin-bottom: 1rem;
+    }
+
+    .title-bastpost {
+        font-size: medium !important;
+    }
+
+    .image-index-title {
+        padding-right: 3rem;
+        margin-bottom: 2%;
+    }
+
+    .post_card_title h4 {
+        font-size: small !important;
+    }
+
+    .archive-title a h5 {
+        line-height: 1.3 !important;
+        font-size: .95rem !important;
+    }
+
+    .archive_card .archive-card-content-box .limit-char {
+        -webkit-line-clamp: 2 !important;
+        font-size: small !important;
+    }
+
+    .paper {
+        height: 18rem !important;
+    }
+
+    .post-description-icon {
+        font-size: small !important;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #navbar {
+        margin-bottom: 0px !important;
+    }
+
+    .carousel-system-display {
+        display: none !important;
+    }
+
+    .carousel-mobile-display {
+        display: block !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #navbar .navbar-parent{
+        display: flex !important;
+        flex-direction: row-reverse !important;
+        align-items: flex-start !important;
+    }
+
+    .navbar-toggler{
+        width: unset !important;
+    }
+
+    .navbar-collapse{
+        margin-top: 1rem !important;
+        padding-right: unset !important;
+    }
+
+    #navbarCollapse ul li{
+        margin-top: 0.3rem !important;
+        margin-bottom: 0.3rem !important;
+    }
+
+
+    .navbar-logo-pc{
+        display: none !important;
+    }
+    
+    .navbar-logo-mobile{
+        display: block !important;
+    }
+    
+    .index_single_page_container {
+        max-width: 100% !important;
+    }
+
+    .maincontent {
+        padding-top: 3.5rem;
+    }
+
+    .t-header-right ul {
+        display: none;
+    }
+
+    .section-header {
+        margin-right: 0.8rem;
+        margin-left: 0.8rem;
+        margin-bottom: 0px !important;
+    }
+
+    .responsive-navbar {
+        display: block;
+        width: 35%;
+        height: auto;
+        background-color: rgba(0, 0, 0, 0.6);
+        right: -35%;
+        display: none;
+        position: absolute;
+        display: none;
+    }
+
+    .responsive-navbar a {
+        text-decoration: none;
+        color: #e8e8e8;
+        line-height: 1rem;
+    }
+
+    .responsive-navbar ul {
+        text-align: center;
+        padding: 1rem;
+        margin-top: 3rem;
+        width: 100%;
+    }
+
+    .back-container {
+        position: absolute;
+        background-color: rgba(0, 0, 0, 0.5);
+        right: 0;
+        top: 0;
+        bottom: 0;
+        left: 0;
+    }
+
+    .paper {
+        height: 22rem !important;
+    }
+
+    .primary_container h1 {
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+
+    .responsive-icon {
+        display: block;
+    }
+
+    .related-posts {
+        display: none;
+    }
+
+    .carousel-content {
+        display: block;
+        margin-top: 3rem;
+        width: 70%;
+        height: 50%;
+        text-align: center;
+        background: #ffffff;
+        border-radius: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .carousel-content img {
+        height: 50%;
+        border-radius: 1rem;
+    }
+
+    .carousel-content a {
+        text-decoration: none;
+        font-weight: bold;
+        color: black;
+    }
+
+    .carousel-content section {
+        color: #8b8b8b;
+        font-size: 1rem;
+    }
+
+    .carousel-content p {
+        margin: 1rem;
+    }
+
+    footer .col-3 {
+        width: 100%;
+        text-align: start;
+    }
+
+    .VALMART,
+    section,
+    a,
+    p {
+        text-align: justify !important;
+    }
+
+    .categories-container {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .category-box-item span {
+        font-size: 0.8rem;
+    }
+
+    .title-bastpost {
+        font-size: small !important;
+    }
+
+    .image-index-title {
+        padding-right: 2rem;
+        margin-bottom: 5%;
+    }
+
+    .categories .category-link {
+        margin: 1% 10% !important;
+    }
+
+    .paper-carousel {
+        box-shadow: 0 0 10px 0 rgba(49, 46, 46, 0.18);
+        height: 24rem !important;
+    }
+
+    .paper-carousel img {
+        height: auto;
+        width: 100%;
+        object-position: center;
+    }
+
+    .first-section-paper {
+        display: none !important;
+    }
+
+    .first-section-paper-responsiv {
+        display: block !important;
+    }
+}
+@media screen and (max-width: 576px) {
+    .index_single_page_container {
+        max-width: 100% !important;
+    }
+
+    .ramzarz {
+        font-size: 0.8rem;
+    }
+
+    .single-post-icons a {
+        font-size: small;
+    }
+
+    .single-post-desctiption {
+        font-size: small;
+    }
+
+    .primary_container h1 {
+        font-size: 1.4rem;
+        font-weight: bold;
+    }
+
+    .tag-content a {
+        font-size: 1rem;
+        font-weight: bold;
+        margin: 0.3rem;
+        padding: 0.3rem;
+    }
+
+    footer .fab {
+        font-size: 1.5rem !important;
+    }
+
+    h4 {
+        padding: 0.5rem 0;
+        line-height: 1.5rem !important;
+        font-size: 0.9rem;
+    }
+
+    .category-box-item span {
+        font-size: 0.6rem;
+    }
+
+    h2 {
+        font-size: larger !important;
+    }
+
+    .text-wrap {
+        font-size: small !important;
+    }
+
+    #ez-toc-container a {
+        font-size: small !important;
+    }
+
+    #ez-toc-container {
+        padding: 0 !important;
+    }
+
+    #title-categori {
+        font-size: smaller !important;
+    }
+
+    .pagination {
+        margin: 0 auto;
+    }
+
+    #archive-search {
+        margin: 0 auto;
+    }
+
+    .archive_card .archive-card-content-box .limit-char {
+        -webkit-line-clamp: 1 !important;
+    }
+
+    .paper {
+        height: 25rem !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+
+    .paper-carousel {
+        height: 20rem !important;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .mobile-display {
+        display: block !important;
+    }
+
+    .system-display {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .maincontent {
+        padding-top: 2rem;
+    }
+
+    .ramzarz {
+        font-size: 0.5rem;
+    }
+
+    .single-post-icons a {
+        font-size: x-small;
+    }
+
+    .single-post-desctiption {
+        font-size: x-small;
+        margin-top: 0.5rem !important;
+    }
+
+    .primary_container h1 {
+        font-size: 1rem;
+        font-weight: bold;
+    }
+
+    p,
+    a {
+        font-size: 0.8rem;
+    }
+
+    .section-header h3 {
+        padding-left: 0.4rem !important;
+    }
+
+    .section-header h6 {
+        padding-right: 0.4rem !important;
+    }
+
+    .tag-content a {
+        font-size: 10px;
+        font-weight: bold;
+        margin: 0.3rem;
+        padding: 0.3rem;
+    }
+
+    h4 {
+        padding: 0.5rem 0;
+        font-size: 0.7rem;
+        line-height: 1rem !important;
+    }
+
+    .category-box-item span {
+        font-size: 0.4rem;
+    }
+
+    .category-item {
+        font-size: xx-small !important;
+    }
+
+    .social-icon {
+        font-size: small !important;
+        padding: 0.1rem !important;
+    }
+
+    .single-post-desctiption a {
+        padding: 0.2rem !important;
+    }
+
+    .archive_card .archive-card-content-box .limit-char {
+        display: none;
+    }
+
+    #archive-cintent {
+        display: none;
+    }
+
+    #archive-cintent-responsive {
+        display: block;
+    }
+
+    .archive-image-box {
+        width: 100%;
+        height: auto;
+    }
+
+    .paper {
+        height: 19rem !important;
+    }
+
+    .paper-carousel {
+        height: 17rem !important;
+    }
+
+    .title-category-btn a{
+        font-size: 0.9rem !important;
+    }
+
+    .more-category-btn a{
+        font-size: 0.7rem !important;
+    }
+}
+/* created by: Abbas-Rahimzadeh, Vida-Amiri */

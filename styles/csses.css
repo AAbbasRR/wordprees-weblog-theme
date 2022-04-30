@@ -1,0 +1,35 @@
+.comment {
+    background: #fafafa;
+    height: auto;
+    padding: 5% 20%;
+}
+label {
+    margin: 1rem;
+}
+.comment input {
+    width: 100%;
+    height: 2.5rem;
+    border-radius: 0.4rem;
+    border: #a0a0a0 solid 0.1rem;
+}
+textarea {
+    border-radius: 0.4rem;
+    border: #a0a0a0 solid 0.1rem;
+}
+
+.fellowship {
+    display: inline-flex;
+    width: 100%;
+    text-align: right;
+}
+.networks a {
+    border-radius: 45%;
+    background: #e8e8e8;
+    color: #312e2e;
+}
+.newsletters {
+    background: #4a4949;
+    border-radius: 0.5rem;
+    width: 100%;
+    display: flex;
+}
