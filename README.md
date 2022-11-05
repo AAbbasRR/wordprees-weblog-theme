@@ -14,3 +14,24 @@ a Weblog template with PHP and Wordpress
     4- click add new Button
     5- click Upload Theme Button and upload theme .zip file
     6- Done
+
+## plugins and config:
+    {
+        table of content plus,
+        wp-postviews,
+        optiontree:{
+            general:{
+                logoheader:upload,
+                search_in_header:on/off
+            },
+            social:{
+                telegram:on/off,
+                instagra:on/off,
+                twitter:on/off,
+                facebook:on/off,
+                whatsapp:on/off,
+                linkdin:on/off,
+            }
+        },
+        reading
+    }
